@@ -9,4 +9,4 @@ ageNum = 22 #This would be able to be used within equestions, but not within str
 print("Very nice to meet you {}! My name is {}, and I am {} years old!" .format(name,myName,age)) #They're shown in order of typed within the format command.
 # Very nice to meet you {yourName}! My name is Rose, and I am 22 years old!
 
-print(age == ageNum)
+print(age == ageNum) #False
