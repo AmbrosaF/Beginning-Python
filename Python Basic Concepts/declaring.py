@@ -21,4 +21,4 @@ def square(num):
     numSqu = num ** 2
     return numSqu
 
-print(square(5))
+print(square(5)) #returns 25

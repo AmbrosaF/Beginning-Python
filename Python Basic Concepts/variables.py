@@ -30,10 +30,10 @@ print("6" + num) #66
 
 int_value = 4
 print(int_value)
-print(type(int_value))
+print(type(int_value)) #Prints the type of var a value is.
 
 print()
 
-float_value = float(int_value)
-print(float_value)
+float_value = float(int_value) 
+print(float_value) #4.0
 print(type(float_value))
