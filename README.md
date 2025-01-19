@@ -6,8 +6,8 @@ Eh, important note for next time.
 
 How to Save Code
 
-1. Git Add .
-2. Git Pull
+1. Git Pull
+2. Git Add .
 3. Git Commit -m "Message Here."
 4. Git Push
 5. Git Status (To ensure you did it correctly.)
